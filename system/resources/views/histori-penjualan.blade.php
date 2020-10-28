@@ -1,5 +1,6 @@
 @extends('template.base')
 
 @section('content')
-	<h1> Ini halaman Histori penjualan</h1>
+	<h1> Tidak ada histori penjualan anda</h1> <hr>
+	<p>silahkan lakukan penjualan</p>
 @endsection
