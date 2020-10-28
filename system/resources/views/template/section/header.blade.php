@@ -9,7 +9,6 @@
                 <span class="navbar-toggler-bar bar3"></span>
               </button>
             </div>
-            <a class="nav-link" href="#">Kontak</a>
             <a class="nav-link" href="#">Beranda</a>
           </div>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">

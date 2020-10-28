@@ -97,7 +97,7 @@
           </tr>
 
           <tr>
-            <td><a href="" class="btn btn-sm btn-danger shadow "> Lihat Produk ini</a>
+            <td><a href="" class="btn btn-sm btn-danger shadow "> Lihat Kategori Ini</a>
             </td>
             <td></td>
           </tr>
@@ -130,7 +130,7 @@
           </tr>
 
           <tr>
-            <td><a href="" class="btn btn-sm btn-danger shadow "> Lihat Produk ini</a>
+            <td><a href="" class="btn btn-sm btn-danger shadow "> Lihat Kategori Ini</a>
             </td>
             <td></td>
           </tr>
@@ -144,7 +144,7 @@
   <div class="row">
       <div class="col-md-3 pb-3">
         <div class="detail-img">
-          <img src="kategori/3.Postingan" height="100px">
+          <img src="kategori/3.png" height="100px">
         </div>
       </div>
       <div class="col-md-9">
@@ -165,7 +165,7 @@
           </tr>
 
           <tr>
-            <td><a href="" class="btn btn-sm btn-danger shadow "> Lihat Produk ini</a>
+            <td><a href="" class="btn btn-sm btn-danger shadow "> Lihat Kategori Ini</a>
             </td>
             <td></td>
           </tr>
@@ -198,7 +198,7 @@
           </tr>
 
           <tr>
-            <td><a href="" class="btn btn-sm btn-danger shadow "> Lihat Produk ini</a>
+            <td><a href="" class="btn btn-sm btn-danger shadow "> Lihat Kategori Ini</a>
             </td>
             <td></td>
           </tr>
@@ -232,7 +232,7 @@
           </tr>
 
           <tr>
-            <td><a href="" class="btn btn-sm btn-danger shadow "> Lihat Produk ini</a>
+            <td><a href="" class="btn btn-sm btn-danger shadow "> Lihat Kategori Ini</a>
             </td>
             <td></td>
           </tr>
@@ -265,7 +265,7 @@
           </tr>
 
           <tr>
-            <td><a href="" class="btn btn-sm btn-danger shadow "> Lihat Produk ini</a>
+            <td><a href="" class="btn btn-sm btn-danger shadow "> Lihat Kategori Ini</a>
             </td>
             <td></td>
           </tr>
@@ -299,7 +299,7 @@
           </tr>
 
           <tr>
-            <td><a href="" class="btn btn-sm btn-danger shadow "> Lihat Produk ini</a>
+            <td><a href="" class="btn btn-sm btn-danger shadow "> Lihat Kategori Ini</a>
             </td>
             <td></td>
           </tr>
@@ -332,7 +332,7 @@
           </tr>
 
           <tr>
-            <td><a href="" class="btn btn-sm btn-danger shadow "> Lihat Produk ini</a>
+            <td><a href="" class="btn btn-sm btn-danger shadow "> Lihat Kategori Ini</a>
             </td>
             <td></td>
           </tr>
@@ -366,7 +366,7 @@
           </tr>
 
           <tr>
-            <td><a href="" class="btn btn-sm btn-danger shadow "> Lihat Produk ini</a>
+            <td><a href="" class="btn btn-sm btn-danger shadow "> Lihat Kategori Ini</a>
             </td>
             <td></td>
           </tr>
@@ -399,7 +399,7 @@
           </tr>
 
           <tr>
-            <td><a href="" class="btn btn-sm btn-danger shadow "> Lihat Produk ini</a>
+            <td><a href="" class="btn btn-sm btn-danger shadow "> Lihat Kategori Ini</a>
             </td>
             <td></td>
           </tr>
